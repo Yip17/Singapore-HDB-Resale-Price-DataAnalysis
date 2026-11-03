@@ -153,6 +153,9 @@ pip install pandas numpy matplotlib
 # Author
 
 Singapore Polytechnic – Diploma in Information Technology Student
+
 Specialisation: Cloud Computing & Cybersecurity
+
 Minor in Data & AI
+
 Yip Jun Yi
